@@ -28,7 +28,7 @@ erDiagram
   dim_calendar ||--o{ f_purchase_order : "order_date"
   dim_calendar ||--o{ f_receipt : "receipt_date"
   dim_calendar ||--o{ f_inventory_daily : "date"
-
+```
 
 ## Entity Definitions
 
